@@ -1,0 +1,26 @@
+{
+  "name": "xdocs",
+  "authors": [
+    "M Shahbaz Manzoor <msmanzoor91@gmail.com>"
+  ],
+  "description": "Knowledge Base HTML template",
+  "main": "index.html",
+  "keywords": [
+    "knowledge base",
+    "documentation"
+  ],
+  "license": "GPL",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.1"
+  }
+}
